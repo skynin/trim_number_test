@@ -4,7 +4,7 @@ namespace Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 
-class ParseNumberTest extends TestCase
+class TrimNumberTest extends TestCase
 {
 
 	private function parseIt($a) : string
